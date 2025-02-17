@@ -54,7 +54,8 @@ Food Image Analyzer is a Streamlit-based application that leverages AI to analyz
 ## Project Structure
 ```
 food-image-analyzer/
-│── archive/                 # Image dataset (optional)
+│── sample_images/  # Image dataset 
+│── test.py        #  Another UI       
 │── app.py                   # Main application script
 │── requirements.txt         # List of dependencies
 │── README.md                # Documentation
